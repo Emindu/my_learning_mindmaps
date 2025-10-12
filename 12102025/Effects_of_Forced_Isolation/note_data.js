@@ -1,4 +1,4 @@
-## Effects of Involuntary Social Isolation
+const noteMarkdown = `## Effects of Involuntary Social Isolation
 
 ### Physical and Mental Health Impacts
 - **Stress and Agitation**: Chronic stress can lead to depression, obsessions, suicidal ideation, and in some cases, delusions and hallucinations.
@@ -15,4 +15,4 @@
 ### Context of Solitary Confinement
 - **Historical Use**: Introduced as an alternative to corporal punishment, but widely criticized for its negative effects.
 - **Current Practices**: Still used in many US prisons, despite criticism and documented harm.
-- **Long-Term Effects**: Difficulties readjusting to life outside prison, increased risk of PTSD, anxiety, paranoia, and concentration issues.
+- **Long-Term Effects**: Difficulties readjusting to life outside prison, increased risk of PTSD, anxiety, paranoia, and concentration issues.`;
